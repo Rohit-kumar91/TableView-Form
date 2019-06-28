@@ -1,0 +1,6 @@
+framework module Pods_TableView_Form {
+  umbrella header "Pods-TableView-Form-umbrella.h"
+
+  export *
+  module * { export * }
+}
